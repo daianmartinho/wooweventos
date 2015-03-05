@@ -27,7 +27,7 @@ display: block;
 }
 
 .black{
-background-color: rgba(0, 0, 0, 0.7);
+background-color: rgba(0, 0, 0, 0.8);
 position: absolute;
 top: 0;
 left: 0;
@@ -81,13 +81,13 @@ height: 100%;
 	float: left;
 }
 
-.left_c{
+.right_c{
 	width: 45%;
 	float: left;
-	padding-top: 20px;
+	padding-top: 40px;
 }
 
-.left_c p{
+.right_c p{
 	text-align: center;
 	font-size: 20px;
 	font-weight: 900;
@@ -96,12 +96,12 @@ height: 100%;
 
 }
 
-.left_c p span{
+.right_c p span{
 	font-weight: 100;
 	font-style: italic;
 }
 
-.left_c p.small_text{
+.right_c p.small_text{
 	font-size: 16px;
 	font-weight: 300;
 	text-transform: none;
@@ -118,13 +118,13 @@ height: 100%;
 	text-align: center;
 }
 
-.right_c{
+.left_c{
 	width: 45%;
 	float: left;
 	padding-top: 50px;
 }
 
-.right_c p{
+.left_c p{
 	text-align: center;
 	font-size: 40px;
 	font-weight: 900;
@@ -132,7 +132,7 @@ height: 100%;
 	text-shadow: 2px 4px 5px #222;
 }
 
-.right_c p.small_text{
+.left_c p.small_text{
 	font-size: 35px;
 	font-weight: 300;
 	font-style: italic;
@@ -237,7 +237,7 @@ height: 100%;
 }
 
 
-.left_c p{
+.right_c p{
 	text-align: center;
 	font-size: 20px;
 	font-weight: 900;
@@ -246,12 +246,12 @@ height: 100%;
 
 }
 
-.left_c p span{
+.right_c p span{
 	font-weight: 100;
 	font-style: italic;
 }
 
-.left_c p.small_text{
+.right_c p.small_text{
 	font-size: 16px;
 	font-weight: 300;
 	text-transform: none;
@@ -268,13 +268,13 @@ height: 100%;
 	text-align: center;
 }
 
-.right_c{
+.left_c{
 	width: 45%;
 	float: left;
 	padding-top: 50px;
 }
 
-.right_c p{
+.left_c p{
 	text-align: center;
 	font-size: 30px;
 	font-weight: 900;
@@ -282,7 +282,7 @@ height: 100%;
 	text-shadow: 2px 4px 5px #222;
 }
 
-.right_c p.small_text{
+.left_c p.small_text{
 	font-size: 27px;
 	font-weight: 300;
 	font-style: italic;
@@ -335,13 +335,13 @@ height: 100%;
 	float: left;
 }
 
-.left_c{
+.right_c{
 	width: 100%;
 	float: left;
 	padding-top: 20px;
 }
 
-.left_c p{
+.right_c p{
 	text-align: center;
 	font-size: 20px;
 	font-weight: 900;
@@ -350,12 +350,12 @@ height: 100%;
 
 }
 
-.left_c p span{
+.right_c p span{
 	font-weight: 100;
 	font-style: italic;
 }
 
-.left_c p.small_text{
+.right_c p.small_text{
 	font-size: 16px;
 	font-weight: 300;
 	text-transform: none;
@@ -373,16 +373,16 @@ height: 100%;
 	font-weight: 0;
 	text-shadow: 2px 4px 5px #222;
 	text-align: center;
-	margin:-20px 0;
+	margin: -20px 10px;
 }
 
-.right_c{
+.left_c{
 	width: 100%;
 	float: left;
 	padding-top: 0px;
 }
 
-.right_c p{
+.left_c p{
 	text-align: center;
 	font-size: 30px;
 	font-weight: 900;
@@ -390,7 +390,7 @@ height: 100%;
 	text-shadow: 2px 4px 5px #222;
 }
 
-.right_c p.small_text{
+.left_c p.small_text{
 	font-size: 26px;
 	font-weight: 300;
 	font-style: italic;
@@ -400,7 +400,7 @@ height: 100%;
 
 .social{
 	width: 80%;
-	margin: 100px 10% 40px;
+	margin: 60px 10% 40px;
 	float: left;
 }
 
@@ -504,13 +504,13 @@ height: 100%;
 	float: left;
 }
 
-.left_c{
+.right_c{
 	width: 100%;
 	float: left;
 	padding-top: 20px;
 }
 
-.left_c p{
+.right_c p{
 	text-align: center;
 	font-size: 18px;
 	font-weight: 900;
@@ -519,12 +519,12 @@ height: 100%;
 
 }
 
-.left_c p span{
+.right_c p span{
 	font-weight: 100;
 	font-style: italic;
 }
 
-.left_c p.small_text{
+.right_c p.small_text{
 	font-size: 14px;
 	font-weight: 300;
 	text-transform: none;
@@ -542,16 +542,16 @@ height: 100%;
 	font-weight: 0;
 	text-shadow: 2px 4px 5px #222;
 	text-align: center;
-	margin:-20px 0;
+	margin:-20px 10px;
 }
 
-.right_c{
+.left_c{
 	width: 100%;
 	float: left;
 	padding-top: 0px;
 }
 
-.right_c p{
+.left_c p{
 	text-align: center;
 	font-size: 26px;
 	font-weight: 900;
@@ -559,7 +559,7 @@ height: 100%;
 	text-shadow: 2px 4px 5px #222;
 }
 
-.right_c p.small_text{
+.left_c p.small_text{
 	font-size: 21px;
 	font-weight: 300;
 	font-style: italic;
@@ -567,13 +567,71 @@ height: 100%;
 }
 
 
-.social{
+/*.social{
 	width: 80%;
 	margin: 100px 10% 0;
 	display: none;
 	float: left;
+}*/
+
+.social{
+	width: 80%;
+	margin: 40px 10% 40px;
+	float: left;
 }
 
+.social ul{
+	display: table;
+	margin: 0 auto;	
+}
+
+.social ul li{
+	float: left;
+	margin: 0 20px;
+	height: 87px;
+	width: 87px;
+	transition:all 0.3s ease;
+	background: url(../images/social.png) left top no-repeat;	
+}
+
+.social ul li a{
+	display: block;
+	height: 87px;
+	width: 87px;
+}
+
+
+
+.social ul li.facebook{
+	background: url(../images/social.png) left top no-repeat;
+	width: 87px;
+}
+
+
+
+.social ul li.twitter{
+	background: url(../images/social.png) -87px top no-repeat;
+	width: 87px;
+}
+
+
+.social ul li.instagram{
+	background: url(../images/social.png) -174px top no-repeat;
+	width: 87px;
+}
+
+
+.social ul li.facebook:hover{
+	background: url(../images/social.png) left bottom no-repeat;
+}
+
+.social ul li.twitter:hover{
+	background: url(../images/social.png) -87px bottom no-repeat;
+}
+
+.social ul li.instagram:hover{
+	background: url(../images/social.png) -174px bottom no-repeat;
+}
 
 
 
